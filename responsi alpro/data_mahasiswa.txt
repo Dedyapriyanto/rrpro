@@ -1,0 +1,13 @@
+===== Daftar Data Mahasiswa =====
+
+Mahasiswa ke-1:
+NIM   : 1234
+Nama  : dy
+Nilai : 80
+
+Mahasiswa ke-2:
+NIM   : 678
+Nama  : gd
+Nilai : 90
+
+===============================
